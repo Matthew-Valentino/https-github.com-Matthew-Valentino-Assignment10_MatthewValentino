@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank4Us.CanoncialSchema.Account">
+<<<<<<< HEAD
+    <Position X="2" Y="2.25" Width="1.5" />
+=======
+    <Position X="2" Y="2.5" Width="1.5" />
+>>>>>>> 851a0d92702cce1fa845786d08931602c0c8a40c
+    <TypeIdentifier>
+      <HashCode>AAEAAIAEAAAAAAAAAggAAAAAAAAAABAAABAAAAAAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank4Us.CanoncialSchema.Customer">
+<<<<<<< HEAD
+    <Position X="4.25" Y="2" Width="1.5" />
+=======
+    <Position X="4.5" Y="2.5" Width="1.5" />
+>>>>>>> 851a0d92702cce1fa845786d08931602c0c8a40c
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAAAACIAAAAAAQAAAAAABADAAAABgAAAEg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Account" />
+    </ShowAsAssociation>
+  </Class>
+<<<<<<< HEAD
+  <Class Name="Bank4Us.CanoncialSchema.Order">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAECAAAEAAAgAAAAAgAAAACAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="Product" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bank4Us.CanoncialSchema.Product">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgAAAgAAAAAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
+=======
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
+>>>>>>> 851a0d92702cce1fa845786d08931602c0c8a40c
